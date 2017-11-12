@@ -1,0 +1,11 @@
+## Interface: 70000 
+## Title: GearScores
+## Author: Winthers
+## Notes: GearScores calculate a score based on stat weights, and show it in item tooltips.
+## version 0.0.5
+
+## SavedVariablesPerCharacter: GearScores_Profiles
+## SavedVariablesPerCharacter: GearScores_CurrentSelectedProfile
+## SavedVariables: GearScores_CurrentProfile
+
+GearScores.lua
